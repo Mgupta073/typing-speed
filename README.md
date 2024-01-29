@@ -13,19 +13,29 @@ Welcome to the Typing Speed Test application! This web-based tool allows users t
 -User-friendly Interface: Simple and intuitive interface for a seamless typing experience.
 
 
+
 #### Getting Started
 To get started with the Typing Speed Test:
 
 -Clone or download the repository to your local machine.
+
 -Open the index.html file in your web browser.
+
 -Choose the desired time duration from the dropdown menu.
+
 -Click the "Start Test" button to begin the typing test.
+
 -Start typing in the provided text area.
+
 -View your typing speed and accuracy results in real-time.
+
 -Once the time is up, review your final results.
+
 
 
 #### Technologies Used
 -HTML
+
 -CSS
+
 -JavaScript
